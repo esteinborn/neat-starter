@@ -1,5 +1,5 @@
 ---
-title: This is my first post
+title: This is my first posting
 description: |-
   # **Capitalize** 
 
