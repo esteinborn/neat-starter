@@ -1,8 +1,45 @@
 ---
 title: This is my first post
-description: Capitalize on low hanging fruit to identify a ballpark value added
-  activity to beta test. Override the digital divide with additional
-  clickthroughs from DevOps.
+description: |-
+  # **Capitalize** 
+
+  ![](/static/img/icon.svg)
+
+  <table>
+    <thead>
+      <tr>
+        <th>Variable</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>--nys-toggle-width</code></td>
+        <td>Width of the toggle switch.</td>
+      </tr>    <tr>
+        <td><code>--nys-toggle-width</code></td>
+        <td>Width of the toggle switch.</td>
+      </tr>    <tr>
+        <td><code>--nys-toggle-width</code></td>
+        <td>Width of the toggle switch.</td>
+      </tr>    <tr>
+        <td><code>--nys-toggle-width</code></td>
+        <td>Width of the toggle switch.</td>
+      </tr>    <tr>
+        <td><code>--nys-toggle-width</code></td>
+        <td>Width of the toggle switch.</td>
+      </tr>    <tr>
+        <td><code>--nys-toggle-width</code></td>
+        <td>Width of the toggle switch.</td>
+      </tr>    <tr>
+        <td><code>--nys-toggle-width</code></td>
+        <td>Width of the toggle switch.</td>
+      </tr>    <tr>
+        <td><code>--nys-toggle-width</code></td>
+        <td>Width of the toggle switch.</td>
+      </tr>
+    </tbody>
+    </table>
 author: Surjith S M
 date: 2020-09-01
 tags:
