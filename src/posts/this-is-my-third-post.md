@@ -5,7 +5,7 @@ description: The \`<nys-alert>\` component is a banner-like component that
   along with optional links. Alerts keep users informed of important and
   sometimes time-sensitive changes.l
 author: Surjith S M
-date: 2025-06-04T15:49:30.275Z
+date: 2025-06-04T17:14:12.065Z
 tags:
   - second-tag
 ---
